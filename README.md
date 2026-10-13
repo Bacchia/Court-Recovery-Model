@@ -187,6 +187,7 @@ E[წმინდა შედეგი]  = E[რექოვერი] − (500
 ავტორი: **საბა ლოსაბერიძე** (Saba Losaberidze)
 
 GitHub: https://github.com/Bacchia/Court-Recovery-Model
+
 MLflow (DagsHub): https://dagshub.com/slosa23/Court-Recovery-Model.mlflow
 
 რეპოზიტორია და ექსპერიმენტები Private-ზეა. წვდომა შესაძლებელია მოთხოვნისამებრ.
